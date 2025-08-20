@@ -21,6 +21,10 @@ ENV/
 env.bak/
 venv.bak/
 
+# Specific folders/files to ignore
+.virtual_documents/
+anaconda_projects/
+
 # Conda environment files (optional if you include environment.yml)
 *.conda
 *.tar.bz2
